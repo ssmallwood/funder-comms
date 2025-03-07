@@ -1,0 +1,26 @@
+TITLE: Texas A&M President Resigns Following Investigative Report
+DATE: 2024-03-15
+LOCATION: Texas
+REPORTER: Kate McGee
+NEWSROOM: Texas Tribune
+IMPACT_TYPE: Institutional Accountability
+DESCRIPTION: Investigative reporting about Texas A&M's botched hiring of a veteran Black journalist led to the resignation of the university's president.
+TAGS: leadership, accountability, diversity, institutional_change, policy_impact
+
+TITLE: California Removes For-Profit Schools from Funding List
+DATE: 2024-04-22
+LOCATION: California
+REPORTER: Adam Echelman
+NEWSROOM: CalMatters
+IMPACT_TYPE: Policy Change
+DESCRIPTION: The state department of education removed several for-profit schools from its funding list after our reporter asked why it was still supporting schools that were unlicensed or with a license under appeal, and schools that were under state or federal investigation.
+TAGS: for-profit_education, accountability, consumer_protection, policy_impact
+
+TITLE: Illinois Prisons Revise Education Credit Practices
+DATE: 2024-02-10
+LOCATION: Illinois
+REPORTER: Charlotte West
+NEWSROOM: WBEZ Chicago
+IMPACT_TYPE: Institutional Practice Change
+DESCRIPTION: Coverage revealed many people in Illinois prisons weren't getting full sentence reductions under a new state law giving credits for participating in education programs. After the story, one featured individual was released and prisons began revisiting their practices.
+TAGS: prison_education, policy_implementation, equity, institutional_change

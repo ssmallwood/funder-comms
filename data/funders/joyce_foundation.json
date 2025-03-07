@@ -1,0 +1,28 @@
+{
+  "funder_id": "joyce_foundation",
+  "name": "Joyce Foundation",
+  "description": "The Joyce Foundation invests in policies and strategies that advance racial equity and economic mobility for the next generation in the Great Lakes region.",
+  "focus_areas": ["Education & Economic Mobility", "Democracy", "Environment", "Gun Violence Prevention & Justice Reform", "Culture"],
+  "geographic_interests": ["Chicago", "Cleveland", "Great Lakes Region"],
+  "theory_of_change": "Focus heavily on policymakers and power structures rather than grassroots community members. Interested in systemic change through policy reform.",
+  "communication_preferences": {
+    "style": "Data-driven, policy-focused",
+    "format": "Clear, concise communications with specific outcomes",
+    "focus_level": "Regional with national context"
+  },
+  "past_grants": [
+    {
+      "date": "2023-09-01",
+      "amount": 150000,
+      "purpose": "Support for higher education reporting in Chicago and Cleveland",
+      "report_due": "2024-09-01"
+    }
+  ],
+  "key_contacts": [
+    {
+      "name": "Jane Smith",
+      "role": "Program Officer",
+      "communication_style": "Direct, appreciates data and concrete examples"
+    }
+  ]
+}
